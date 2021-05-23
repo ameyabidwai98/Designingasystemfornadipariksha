@@ -1,0 +1,2 @@
+# Designingasystemfornadipariksha
+As per the norms of COVID-19, we need to maintain a distance with another person, A doctor also has to take the appropriate precautions. So we have designed a device that will help a Ayurvedic Practitioner to check the patient by maintaining the distance. Also the outcome while checking a patient varies from physician to physician due to different skills in the diagnostic tools. The main aim of this project is to design a non-invasive system based on ancient ayurvedic technique of Nadi Parikshan
